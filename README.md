@@ -5,7 +5,9 @@ This project for test at CloudFit.
 name : Ayu Sudi Dwijayanti  
 email : ayusudi.abc@gmail.com
 
-> I am using React Navigation with Stack, React Native Reanimated, and Expo Linear Gradient. I started this project after lunch at 13:00 (Jakarta Time) and finished it by 21:00. While I considered implementing a better transition between the home page and the detail page, I prioritized time constraints and focused on completing the project and creating content that I love. Overall, I enjoyed working on this homework project. Thank you for the opportunity!
+[Demo Video](https://www.loom.com/share/1ad8b0244e1d401bb8b475f49d44e9bb?sid=2d5ceb11-c613-4b9a-8599-f1d2a3c847ce)
+
+> I am using React Navigation with Stack, React Native Reanimated, and Expo Linear Gradient. I started this project after lunch at 14:30 (Jakarta Time) and finished it by 21:00. While I considered implementing a better transition between the home page and the detail page, I prioritized time constraints and focused on completing the project and creating content that I love. Overall, I enjoyed working on this homework project. Thank you for the opportunity!
 
 Here is the page :
 
